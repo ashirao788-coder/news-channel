@@ -1,0 +1,2 @@
+# news-channel
+new repositry
